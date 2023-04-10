@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Application</string>
+    <string name="btn_start_demo">Press to start demo</string>
+    <string name="countdown_start_message">Starting in:</string>
+    <string name="recording_for_message">Recording for:</string>
+    <string name="evatuating_message">Evaluating…</string>
+    <string name="result_positive">User</string>
+    <string name="result_negative">Attacker</string>
+</resources>
